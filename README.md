@@ -99,7 +99,7 @@ services and background processing queues
 number, image, location, multiple/single choice, sliders)
 - Reduced deployment time by over 50% by maintaining reproducible infrastructure as code using Terraform
 
-**Crewtech -** Django Backend API with AWS Infrastructure https://github.com/mustafaelghrib/crewtech
+**Crewtech -** Django Backend API with AWS Infrastructure - https://github.com/mustafaelghrib/crewtech
 - Ensured scalable and reproducible environments by deploying Crewtech, a production-ready Django REST API
 backend, on AWS using Terraform
 - Reduced deployment time by 50% and minimized manual intervention by implementing automated CI/CD pipelines
