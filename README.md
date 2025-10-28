@@ -79,7 +79,7 @@ Selected Articles:
 
 ## Projects
 
-**Docorvter -** HTML to PDF Document Converter - https://github.com/mustafaelghrib/docorvter
+**Docorvter -** HTML to PDF Document Converter - https://github.com/maelghrib/docorvter
 - Enabled reliable background processing of multiple concurrent document conversions by building and deploying
 Docorvter with Python/Django, PostgreSQL, Celery, RabbitMQ, and Redis
 - Reduced manual setup errors by 80% by building and managing AWS infrastructure with Terraform (S3, RDS, ECR)
@@ -88,7 +88,7 @@ containerizing backend services with Docker and deploying on Kubernetes (Minikub
 - Reduced deployment time by over 60% by automating CI/CD and infrastructure provisioning using Docker Compose,
 Terraform, and Kubernetes manifests
 
-**Fuilder -** Dynamic Form Builder - https://github.com/mustafaelghrib/fuilder
+**Fuilder -** Dynamic Form Builder - https://github.com/maelghrib/fuilder
 - Enabled real-time form creation and submission for multiple concurrent users by designing and implementing Fuilder
 using Python/Django, PostgreSQL, and a microservices architecture
 - Delivered scalable and reliable backend infrastructure by building and deploying Users, Forms, and Form Builder
@@ -99,7 +99,7 @@ services and background processing queues
 number, image, location, multiple/single choice, sliders)
 - Reduced deployment time by over 50% by maintaining reproducible infrastructure as code using Terraform
 
-**Crewtech -** Django Backend API with AWS Infrastructure - https://github.com/mustafaelghrib/crewtech
+**Crewtech -** Django Backend API with AWS Infrastructure - https://github.com/maelghrib/crewtech
 - Ensured scalable and reproducible environments by deploying Crewtech, a production-ready Django REST API
 backend, on AWS using Terraform
 - Reduced deployment time by 50% and minimized manual intervention by implementing automated CI/CD pipelines
