@@ -37,7 +37,7 @@ managing end-to-end development and stakeholder coordination
 - **Upskilled** in Unsloth, a library that helps train open-source LLM models in 90% less memory usage, and applied it to
 deliver a custom finetuned LLM, accelerating the adoption of emerging GenAI tools across the team.
 
-**Full Stack Software Engineer,** Medicore Medical Services – Dublin, Ireland (Remote) - Jan 2021 – Jun 2023
+**Full Stack Software Engineer,** Medicore Medical Services – Dublin, Ireland (Remote) - Jan 2021 – Dec 2023
 - **Empowered** managers to create EMS forms without code changes by developing a dynamic form builder supporting
 10+ input types and real-time editing using Python, Django, PostgreSQL, React, Redux, and TypeScript
 - **Developed** secure authentication, crew management, and device approvals features by refactoring a legacy Django
