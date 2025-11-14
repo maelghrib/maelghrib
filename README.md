@@ -12,7 +12,7 @@
 
 ## Education
 
-**Minia University** – BS in Computers and Systems Engineering - 2015 - 2020
+**BS in Computers and Systems Engineering** – Minia University - 2015 - 2020
 - Earned an excellent grade for the graduation project by building a smart assistant app for Alzheimer’s patients
 
 ## Work Experience
