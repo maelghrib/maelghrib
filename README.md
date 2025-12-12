@@ -2,10 +2,7 @@
 <h3 align="center">AI Full Stack Software Engineer | Building Scalable AI Full Stack Solutions</h3>
 
 <p align="center">
-  <a href="mailto:maelghrib@gmail.com"><img src="https://img.shields.io/badge/Email-maelghrib@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="tel:+201125639036"><img src="https://img.shields.io/badge/Phone-%2B201125639036-green?style=flat-square&logo=phone"></a>
-  <a href="https://www.linkedin.com/in/maelghrib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://maelghrib.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-@maelghrib-black?style=flat-square&logo=medium"></a>
+  <a href="mailto:maelghrib@gmail.com" target="_blank">maelghrib@gmail.com</a>
 </p>
 
 ---
